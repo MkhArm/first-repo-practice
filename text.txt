@@ -1,0 +1,2 @@
+cd c:/Armen/Git/1
+git clone https://github.com/MkhArm/first-repo-practice.git
